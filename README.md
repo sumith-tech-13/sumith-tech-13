@@ -35,3 +35,11 @@
 - LinkedIn: [Sumith S]{https://www.linkedin.com/in/sumith-s-790a28348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app}  
 - Email: sumithsoniya@gmail.com  
 
+---
+
+## 📊 GitHub Stats
+
+![Sumith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumith-tech-13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumith-tech-13&layout=compact&theme=tokyonight)
+
