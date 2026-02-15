@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Sumith  
 
-<!--
-**sumith-tech-13/sumith-tech-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Software Engineering Student | Aspiring Robotics & AI Engineer  
 
-Here are some ideas to get you started:
+💻 Python • C++ • JavaScript • Web Development • Databases  
+🤖 Learning Artificial Intelligence, Machine Learning & Robotics  
+🧠 Strong in Mathematics & Logical Reasoning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Dream: Build impactful technology, and help others grow.
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 Languages: Python, C++, JavaScript  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 🗄 Databases: MySQL  
+- 🤖 AI/ML: Learning  
+- 🔧 Tools: Git, GitHub, VS Code, Jupyter  
+
+---
+
+## 🎯 Current Focus
+
+- Full Stack Web Development  
+- Data Structures & Algorithms  
+- Python Advanced Programming  
+- AI & Machine Learning  
+- Robotics Fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Sumith S]{https://www.linkedin.com/in/sumith-s-790a28348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app}  
+- Email: sumithsoniya@gmail.com  
+
